@@ -25,7 +25,7 @@
 .menu{
     width:25px;
     cursor: pointer;
-    //display: none;
+    display: none;
 }
 nav{
     flex:1;
@@ -142,7 +142,7 @@ button:hover{
     
     nav ul{
         width:100%;
-        background: linear-gradient(#ff469f,#ff6062);;
+        background: linear-gradient(#ff469f,#ff6062);
         position:absolute;
         top:75px;
         right:0;
@@ -178,7 +178,7 @@ button:hover{
     .colorbox{
         transform: translateX(75px);
     }
-    col1{
+    .col1{
         flex-basis: 100%;
     }
     .col1 h2{
