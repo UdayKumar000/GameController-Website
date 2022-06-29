@@ -25,7 +25,7 @@
 .menu{
     width:25px;
     cursor: pointer;
-    display: none;
+    //display: none;
 }
 nav{
     flex:1;
